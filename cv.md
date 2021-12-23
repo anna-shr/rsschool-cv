@@ -1,5 +1,7 @@
 # Anna Sheveleva
 
+![This is an image](https://i.postimg.cc/tThsTtsf/111.jpg)
+
 ## Contacts
 
 **Telegram:** @rikadesu
@@ -25,30 +27,36 @@ Adobe Photoshop, Adobe Illustrator, Corel Draw, Figma, Google Docs, CRM systems,
 
 * **HTML/CSS Developer at Mobirise.com**
 
-March 2021 - Present
+*March 2021 - Present*
 
 At the moment, has created 6 adaptive themes that consist of 275 block sections with a team under the guidance of an experienced mentor. Selected images and created designs for 16 demo themes. Сhecked functionality of the themes and identified possible bugs
 
 * **Graphic Designer at Advertisement company 'Azbuka'**
 
-October 2018 - August 2019
+*October 2018 - August 2019*
 
 Created layouts for outdoor advertising and polygraphy, has completed about 500 projects of various sizes, according to the CRM-system information. Conducted prepress preparation for each of my projects. Consulted clients about design issues. Started working in Corel Draw and mastered it to a Professional level.
 
 * **Graphic Design Intern at RosVideo Production**
 
-September 2018
+*September 2018*
 
 Have created about 10 layouts for commercial offers. Performed tasks from the Head of the CG Department. Improved my skills in Illustrator and Photoshop from Basic level to Advanced
 
 ### Some examples of my code
+[Skill](https://mobirise.com/extensions/skillm4/portfolio/)
 
+[Natural Cosmetic](https://mobirise.com/extensions/naturalm4/natural-cosmetic/)
+
+[Organic Food](https://mobirise.com/extensions/naturalm4/organic-food/)
+
+[Spa Salon](https://mobirise.com/extensions/naturalm4/spa-salon/)
 
 ## Education
 
-Vyatka State University
+**Vyatka State University**
 
-September 2014-June 2018
+*September 2014-June 2018*
 
 B.A. in Psychology
 
@@ -56,21 +64,21 @@ GPA = 4.15/5.0
 
 **2021**
 
-* Completed the freeCodeCamp.org course 'Front End Libraries', representing approximately 300 hours of coursework (with a certificate)
+* Completed the **freeCodeCamp.org course 'Front End Libraries'**, representing approximately 300 hours of coursework (with a certificate)
 
 **2020**
 
-* Completed the freeCodeCamp.org course 'JavaScript Algorithms and Data Structures', representing approximately 300 hours of coursework (with a certificate)
+* Completed the **freeCodeCamp.org course 'JavaScript Algorithms and Data Structures'**, representing approximately 300 hours of coursework (with a certificate)
 
-* Completed the freeCodeCamp.org course 'Responsive Web Design', representing approximately 300 hours of coursework (with a certificate)
+* Completed the **freeCodeCamp.org course 'Responsive Web Design'**, representing approximately 300 hours of coursework (with a certificate)
 
 **2018 - 2019**
 
-* Completed the course 'Basics of CG-art' in 'Smirnov School' (with a certificate)
+* Completed the course **'Basics of CG-art'** in 'Smirnov School' (with a certificate)
 
-* Completed the course 'Profession: Illustrator' (learned to create vector graphics in Adobe Illustrator, mastered my skills in it to an Advanced level, learned how to create commercial illustrations) (with a certificate)
+* Completed the course **'Profession: Illustrator'** (learned to create vector graphics in Adobe Illustrator, mastered my skills in it to an Advanced level, learned how to create commercial illustrations) (with a certificate)
 
-* Completed the course 'Illustration' (with a certificate)
+* Completed the course **'Illustration'** (with a certificate)
 
 ## Languages
 
