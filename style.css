@@ -1,1 +1,146 @@
+html {
+    scroll-behavior: smooth;
+}
 
+body {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Merriweather', serif;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    line-height: 1.7;
+    background-color: #f2f2f2;
+    color: #000000;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+h1,
+h2 {
+    color: #0c5b47;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+    flex-wrap: wrap;
+}
+
+.nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+    transition: .3s;
+}
+
+a {
+    color: #829985;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+a:hover {
+    color: #0c5b47;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.title,
+.subtitle {
+    display: inline;
+    text-transform: uppercase;
+}
+
+.profile-text {
+    width: auto;
+    display: inline-flex;
+    flex-direction: column;
+
+}
+
+.section-profile {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.title {
+    margin: auto;
+    font-size: 40px;
+}
+
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.main-container img {
+    border-radius: 50%;
+}
+
+.section {
+    width: 50%;
+    padding: 15px;
+    border-bottom: 1px solid #000000;
+}
+
+.section:first-child {
+    width: 100%;
+}
+
+li {
+    padding-bottom: 5px;
+}
+
+pre {
+    padding: 20px;
+    font-size: 18px;
+    margin: 0;
+    background-color: #bfccc1;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+
+footer img {
+    width: 100px;
+}
+
+.year {
+    display: inline;
+    padding-left: 10px;
+}
+
+@media (max-width: 768px) {
+    .section {
+        width: 100%;
+        padding: 0;
+    }
+}
+
+@media (max-width: 1440px) {
+    .container {
+        padding: 0 20px;
+    }
+}
